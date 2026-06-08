@@ -1,0 +1,80 @@
+Raw File URLs for Study_docs_biology Repository
+================================================
+
+Repository: https://github.com/shu-85/Study_docs_biology
+Generated: 2026-06-08
+
+AQA Biology Exam Papers
+-----------------------
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202018%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202018%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202019%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202019%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202020%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202020%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202021%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202021%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202022%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202022%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202023%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202023%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202024%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Foundation%20June%202024%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202018%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202018%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202019%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202019%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202020%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202020%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202021%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202021%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202022%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202022%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202023%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202023%20QP.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202024%20MS.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/AQA%20Biology%20Higher%20June%202024%20QP.pdf
+
+BWA Learning Materials
+----------------------
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L1-Tissues-and-Organs.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L3-Discovering-Drugs.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L3-The-Chemistry-of-Food.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L4-Catalysts-and-Enzymes.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L4-Developing-drugs.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L4-Viral-Diseases%20Paps.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L5-Bacterial-Diseases.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L5-Factors-affecting-Enzyme-Action.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L6-Diseases-caused-by-fungi-and-protists.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L6-How-the-Digestive-System-Works.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L7-Human-Defence-Responses.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L7-Making-Digestion-Efficient.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L8-The-Blood.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L9-The-Blood-vessels.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L10-The-Human-Heart.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L11--Helping-the-Heart.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/BWA-L12-Breathing-and-Gas-Exchange.pdf
+
+Study Resources & Presentations
+--------------------------------
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Know%20IT%20Bioenergetics.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Know%20It%20Cell%20Biology.pptx
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Know%20It%20Organisation.pptx
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/L11%20Antibiotics%20and%20painkillers.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Lesson%2014%20%26%2015%20-%20Aerobic%20and%20Anaerobic%20Respiration.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Lesson%2016%20-%20Gas%20Exchange.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Lesson%2016%20-%20Metabolism%20(1).pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Lesson%205%20-%20Explaining%20Enzymes%20v2.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Lesson%205%20-%20Explaining%20Enzymes.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Lesson%206%20%26%207%20-%20Enzymes%20Required%20Practical.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Lesson%209%20%26%2010%20-%20Food%20Tests%20RP.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/Pixl%20Know%20IT%20Infection%20and%20Response.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/RP-%20Lesson%202-Food%20Tests%20Practical.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/building%20immunity%20edited.pptx.pdf
+https://raw.githubusercontent.com/shu-85/Study_docs_biology/main/year%2010%20B2%20organisation.pptx.pdf
+
+=====================================================
+Total Files: 60
+
+Note: These are raw GitHub URLs which provide direct access to file content.
+They can be used to download files programmatically or embed in scripts.
